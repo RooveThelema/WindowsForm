@@ -1,0 +1,17 @@
+C:\Users\roovethelema\source\repos\lesson1\lesson1\bin\Release\net8.0-windows\lesson1.exe
+C:\Users\roovethelema\source\repos\lesson1\lesson1\bin\Release\net8.0-windows\lesson1.deps.json
+C:\Users\roovethelema\source\repos\lesson1\lesson1\bin\Release\net8.0-windows\lesson1.runtimeconfig.json
+C:\Users\roovethelema\source\repos\lesson1\lesson1\bin\Release\net8.0-windows\lesson1.dll
+C:\Users\roovethelema\source\repos\lesson1\lesson1\bin\Release\net8.0-windows\lesson1.pdb
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.Calculator.resources
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.csproj.GenerateResource.cache
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.AssemblyInfoInputs.cache
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.AssemblyInfo.cs
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.csproj.CoreCompileInputs.cache
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.dll
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\refint\lesson1.dll
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.pdb
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.genruntimeconfig.cache
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\ref\lesson1.dll
+C:\Users\roovethelema\source\repos\lesson1\lesson1\obj\Release\net8.0-windows\lesson1.csproj.Up2Date
