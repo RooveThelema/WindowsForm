@@ -62,9 +62,9 @@ namespace lesson1
         }
 
         //для счета всего что перед равно
-        private void btnRead(object sender, EventArgs e)
+        private void btnRead(object? sender, EventArgs e)
         {
-            decimal result = Calculate(txtDisplay.Text);
+            decimal? result = Calculate(txtDisplay.Text);
             if (result == null)
                 return;
 
