@@ -52,7 +52,7 @@ namespace lesson1
             {
                 return;
             }
-            // Не ставим вторую запятую в одном числе.
+            //yе ставим вторую запятую в одном числе
             else if (smbl == ',' && display.IndexOf(',', lastSmblIndex + 1) >= 0)
             {
                 return;
@@ -62,27 +62,27 @@ namespace lesson1
         }
 
         //для счета всего что перед равно
-        private void btnRead(object? sender, EventArgs e)
+        private void btnRead(object sender, EventArgs e)
         {
-            decimal? result = Calculate(txtDisplay.Text);
+            decimal result = Calculate(txtDisplay.Text);
             if (result == null)
                 return;
 
             txtDisplay.Text = result.Value.ToString(CultureInfo.GetCultureInfo("ru-RU"));
         }
 
-        // Считаем выражение с экрана.
+        //cчитаем выражение с экрана.
         private decimal? Calculate(string display)
         {
-            // Убираем пробелы по краям.
+            //убираем пробелы по краям
             display = display.Trim();
             decimal sum = 0;
             decimal currentTerm = 0;
-            char operation = '+'; // Первое число считаем как +число.
+            char operation = '+'; //первое число считаем как +число
 
             while (display.Length > 0)
             {
-                // Берём число до следующего знака или до конца строки.
+                //берём число до следующего знака или до конца строки
                 int index = display.IndexOfAny(notSetSign, 1);
                 if (index == -1)
                     index = display.Length;
@@ -96,7 +96,7 @@ namespace lesson1
                     return null;
                 }
 
-                // Умножение и деление меняют только текущее слагаемое.
+                //умножение и деление меняют только текущее слагаемое
                 if (operation == '*')
                     currentTerm *= number;
                 else if (operation == '/')
@@ -112,7 +112,7 @@ namespace lesson1
                 if (index == display.Length)
                     return sum + currentTerm;
 
-                // Запоминаем знак и оставляем текст после него.
+                //запоминаем знак и оставляем текст после него
                 operation = display[index];
                 display = display.Substring(index + 1).TrimStart();
             }
