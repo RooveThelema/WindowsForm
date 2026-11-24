@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roovethelema\\source\\repos\\lesson1\\lesson1\\lesson1.csproj",
+      "projectUniqueName": "C:\\Users\\roovethelema\\Desktop\\calc\\WindowsForm\\lesson1\\lesson1.csproj",
       "projectName": "lesson1",
-      "projectPath": "C:\\Users\\roovethelema\\source\\repos\\lesson1\\lesson1\\lesson1.csproj",
+      "projectPath": "C:\\Users\\roovethelema\\Desktop\\calc\\WindowsForm\\lesson1\\lesson1.csproj",
       "packagesPath": "C:\\Users\\roovethelema\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roovethelema\\source\\repos\\lesson1\\lesson1\\obj\\",
+      "outputPath": "C:\\Users\\roovethelema\\Desktop\\calc\\WindowsForm\\lesson1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
